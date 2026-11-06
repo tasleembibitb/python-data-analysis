@@ -1,0 +1,101 @@
+order_id,date,product,unit_price_pkr,quantity,total_pkr,city,payment_method
+1,2026-01-24,Eid Special 3-Piece,4999,1,4999,Larkana,Bank Transfer
+2,2026-06-04,Embroidered 3-Piece,3499,1,3499,Shikarpur,Cash on Delivery
+3,2026-01-01,Handmade Clutch,999,2,1998,Sukkur,Bank Transfer
+4,2026-05-01,Embroidered 3-Piece,3499,3,10497,Khairpur,Bank Transfer
+5,2026-06-18,Eid Special 3-Piece,4999,3,14997,Hyderabad,Bank Transfer
+6,2026-03-26,Kids Frock Set,1199,3,3597,Jacobabad,Cash on Delivery
+7,2026-04-11,Embroidered 3-Piece,3499,3,10497,Larkana,Bank Transfer
+8,2026-01-03,Embroidered 3-Piece,3499,2,6998,Hyderabad,Cash on Delivery
+9,2026-05-09,Chiffon Hijab,799,2,1598,Jacobabad,Cash on Delivery
+10,2026-05-04,Eid Special 3-Piece,4999,2,9998,Hyderabad,Cash on Delivery
+11,2026-06-20,Handmade Clutch,999,2,1998,Jacobabad,JazzCash
+12,2026-06-03,Handmade Clutch,999,1,999,Sukkur,Bank Transfer
+13,2026-02-28,Chiffon Hijab,799,1,799,Sukkur,EasyPaisa
+14,2026-06-27,Chiffon Hijab,799,2,1598,Larkana,Bank Transfer
+15,2026-02-22,Chiffon Hijab,799,2,1598,Larkana,Cash on Delivery
+16,2026-02-18,Handmade Clutch,999,3,2997,Shikarpur,Bank Transfer
+17,2026-04-09,Embroidered 3-Piece,3499,2,6998,Shikarpur,Bank Transfer
+18,2026-01-08,Eid Special 3-Piece,4999,2,9998,Jacobabad,Cash on Delivery
+19,2026-03-03,Chiffon Hijab,799,2,1598,Karachi,JazzCash
+20,2026-04-13,Embroidered 3-Piece,3499,3,10497,Shikarpur,EasyPaisa
+21,2026-02-08,Embroidered 3-Piece,3499,2,6998,Shikarpur,JazzCash
+22,2026-04-19,Eid Special 3-Piece,4999,3,14997,Hyderabad,JazzCash
+23,2026-05-16,Embroidered 3-Piece,3499,1,3499,Sukkur,Cash on Delivery
+24,2026-06-06,Printed Lawn 2-Piece,1499,1,1499,Jacobabad,EasyPaisa
+25,2026-04-13,Handmade Clutch,999,1,999,Khairpur,EasyPaisa
+26,2026-05-28,Handmade Clutch,999,2,1998,Sukkur,Cash on Delivery
+27,2026-03-25,Eid Special 3-Piece,4999,3,14997,Shikarpur,JazzCash
+28,2026-04-06,Printed Lawn 2-Piece,1499,2,2998,Hyderabad,Cash on Delivery
+29,2026-03-17,Eid Special 3-Piece,4999,3,14997,Jacobabad,Bank Transfer
+30,2026-06-10,Handmade Clutch,999,1,999,Jacobabad,Bank Transfer
+31,2026-02-18,Embroidered 3-Piece,3499,2,6998,Jacobabad,Cash on Delivery
+32,2026-04-01,Handmade Clutch,999,2,1998,Sukkur,JazzCash
+33,2026-01-08,Chiffon Hijab,799,1,799,Khairpur,Cash on Delivery
+34,2026-04-27,Printed Lawn 2-Piece,1499,3,4497,Sukkur,Bank Transfer
+35,2026-04-18,Embroidered 3-Piece,3499,3,10497,Karachi,JazzCash
+36,2026-04-07,Handmade Clutch,999,3,2997,Khairpur,Bank Transfer
+37,2026-04-22,Eid Special 3-Piece,4999,2,9998,Shikarpur,JazzCash
+38,2026-04-04,Kids Frock Set,1199,3,3597,Karachi,Bank Transfer
+39,2026-01-19,Printed Lawn 2-Piece,1499,2,2998,Khairpur,Bank Transfer
+40,2026-01-03,Handmade Clutch,999,1,999,Shikarpur,Cash on Delivery
+41,2026-01-28,Embroidered 3-Piece,3499,1,3499,Larkana,Cash on Delivery
+42,2026-03-22,Handmade Clutch,999,1,999,Hyderabad,Bank Transfer
+43,2026-06-19,Handmade Clutch,999,1,999,Khairpur,EasyPaisa
+44,2026-04-07,Embroidered 3-Piece,3499,2,6998,Sukkur,Cash on Delivery
+45,2026-03-14,Eid Special 3-Piece,4999,2,9998,Hyderabad,EasyPaisa
+46,2026-06-21,Eid Special 3-Piece,4999,1,4999,Shikarpur,Cash on Delivery
+47,2026-06-11,Printed Lawn 2-Piece,1499,2,2998,Jacobabad,Cash on Delivery
+48,2026-02-18,Embroidered 3-Piece,3499,1,3499,Hyderabad,Bank Transfer
+49,2026-03-15,Kids Frock Set,1199,1,1199,Karachi,Cash on Delivery
+50,2026-01-02,Kids Frock Set,1199,3,3597,Shikarpur,Cash on Delivery
+51,2026-02-14,Printed Lawn 2-Piece,1499,1,1499,Hyderabad,EasyPaisa
+52,2026-01-06,Embroidered 3-Piece,3499,2,6998,Hyderabad,Cash on Delivery
+53,2026-04-10,Kids Frock Set,1199,2,2398,Hyderabad,EasyPaisa
+54,2026-03-07,Embroidered 3-Piece,3499,1,3499,Sukkur,Cash on Delivery
+55,2026-01-02,Eid Special 3-Piece,4999,2,9998,Khairpur,EasyPaisa
+56,2026-02-02,Handmade Clutch,999,3,2997,Khairpur,Cash on Delivery
+57,2026-05-03,Embroidered 3-Piece,3499,1,3499,Shikarpur,Bank Transfer
+58,2026-05-08,Kids Frock Set,1199,1,1199,Khairpur,Cash on Delivery
+59,2026-04-22,Handmade Clutch,999,1,999,Khairpur,JazzCash
+60,2026-06-23,Chiffon Hijab,799,1,799,Larkana,Bank Transfer
+61,2026-02-22,Chiffon Hijab,799,2,1598,Shikarpur,JazzCash
+62,2026-01-01,Kids Frock Set,1199,2,2398,Hyderabad,Cash on Delivery
+63,2026-02-17,Printed Lawn 2-Piece,1499,3,4497,Larkana,Bank Transfer
+64,2026-02-12,Chiffon Hijab,799,1,799,Larkana,Bank Transfer
+65,2026-06-10,Kids Frock Set,1199,3,3597,Khairpur,Cash on Delivery
+66,2026-03-22,Eid Special 3-Piece,4999,3,14997,Sukkur,Bank Transfer
+67,2026-01-24,Chiffon Hijab,799,1,799,Khairpur,Bank Transfer
+68,2026-05-07,Chiffon Hijab,799,2,1598,Shikarpur,JazzCash
+69,2026-06-28,Embroidered 3-Piece,3499,3,10497,Larkana,EasyPaisa
+70,2026-01-21,Chiffon Hijab,799,1,799,Hyderabad,JazzCash
+71,2026-03-25,Printed Lawn 2-Piece,1499,1,1499,Karachi,JazzCash
+72,2026-04-18,Embroidered 3-Piece,3499,3,10497,Shikarpur,EasyPaisa
+73,2026-01-03,Handmade Clutch,999,1,999,Shikarpur,Bank Transfer
+74,2026-03-19,Handmade Clutch,999,1,999,Khairpur,Bank Transfer
+75,2026-01-10,Kids Frock Set,1199,1,1199,Larkana,Cash on Delivery
+76,2026-06-08,Chiffon Hijab,799,1,799,Shikarpur,Cash on Delivery
+77,2026-04-20,Chiffon Hijab,799,3,2397,Shikarpur,Bank Transfer
+78,2026-02-14,Embroidered 3-Piece,3499,1,3499,Sukkur,Bank Transfer
+79,2026-04-26,Eid Special 3-Piece,4999,2,9998,Shikarpur,Bank Transfer
+80,2026-06-04,Chiffon Hijab,799,1,799,Hyderabad,Cash on Delivery
+81,2026-02-27,Kids Frock Set,1199,1,1199,Hyderabad,JazzCash
+82,2026-02-01,Chiffon Hijab,799,1,799,Shikarpur,Bank Transfer
+83,2026-03-28,Kids Frock Set,1199,2,2398,Sukkur,JazzCash
+84,2026-05-13,Chiffon Hijab,799,3,2397,Shikarpur,JazzCash
+85,2026-03-06,Printed Lawn 2-Piece,1499,1,1499,Khairpur,JazzCash
+86,2026-05-14,Printed Lawn 2-Piece,1499,1,1499,Larkana,JazzCash
+87,2026-05-04,Kids Frock Set,1199,3,3597,Hyderabad,Bank Transfer
+88,2026-06-14,Chiffon Hijab,799,1,799,Sukkur,Bank Transfer
+89,2026-01-22,Chiffon Hijab,799,2,1598,Larkana,JazzCash
+90,2026-06-10,Eid Special 3-Piece,4999,1,4999,Khairpur,JazzCash
+91,2026-03-13,Eid Special 3-Piece,4999,2,9998,Shikarpur,JazzCash
+92,2026-02-14,Handmade Clutch,999,1,999,Shikarpur,EasyPaisa
+93,2026-02-20,Eid Special 3-Piece,4999,3,14997,Khairpur,JazzCash
+94,2026-01-10,Kids Frock Set,1199,3,3597,Larkana,Bank Transfer
+95,2026-05-21,Kids Frock Set,1199,3,3597,Larkana,EasyPaisa
+96,2026-06-07,Kids Frock Set,1199,2,2398,Khairpur,EasyPaisa
+97,2026-06-03,Eid Special 3-Piece,4999,1,4999,Larkana,JazzCash
+98,2026-06-10,Printed Lawn 2-Piece,1499,1,1499,Karachi,Bank Transfer
+99,2026-01-08,Embroidered 3-Piece,3499,1,3499,Hyderabad,Cash on Delivery
+100,2026-06-19,Kids Frock Set,1199,2,2398,Karachi,EasyPaisa
